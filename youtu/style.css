@@ -1,0 +1,22 @@
+body, *{
+	margin: 0;
+	padding: 0;
+}
+.imgyou{
+	width: 150px;
+	height: 160px;
+}
+.yoañ{
+	border-radius: 75px;
+	width: 411px;
+	height: 160px;
+}
+.fon{
+	background: #313131;
+}
+.as{
+	font-size: 50px;
+}
+.sa{
+	background: #525252;
+}
